@@ -10,6 +10,10 @@
 
 [Docs Google](https://developers.google.com/youtube/v3/docs/videos/list)
 
+## Features
+
+- Java 17`s Records
+
 ## Dependencies
 
 - OAuth 2 Client
