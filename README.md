@@ -6,6 +6,10 @@
 
 ![image](https://github.com/mario1980miranda/springboot-v3-ch4-oauth/assets/13603605/5229925c-b4bb-4dab-84c2-708cbabcdd79)
 
+## YouTube Api V3 Documentation
+
+(Docs Google)[https://developers.google.com/youtube/v3/docs/videos/list]
+
 ## Dependencies
 
 - OAuth 2 Client
