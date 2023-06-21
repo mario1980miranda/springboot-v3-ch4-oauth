@@ -8,7 +8,7 @@
 
 ## YouTube Api V3 Documentation
 
-(Docs Google)[https://developers.google.com/youtube/v3/docs/videos/list]
+[Docs Google](https://developers.google.com/youtube/v3/docs/videos/list)
 
 ## Dependencies
 
